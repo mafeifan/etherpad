@@ -188,7 +188,7 @@
   "dbSettings" : {
     "user":     "root",
     "host":     "localhost",
-    "port":     "/var/run/mysqld/mysqld.sock",,
+    "port":     "/var/run/mysqld/mysqld.sock",
     "password": "wJmQuhT4_6",
     "database": "etherpad_lite_db",
     "charset":  "utf8mb4"
