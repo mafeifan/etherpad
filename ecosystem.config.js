@@ -1,7 +1,7 @@
 module.exports = {
   apps : [{
     name: "etherpad",
-    script: "./bin/run.sh -s settings.json",
+    script: "./bin/run.sh",
     env: {
       NODE_ENV: "development",
     },
