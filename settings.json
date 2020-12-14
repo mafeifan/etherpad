@@ -195,7 +195,7 @@
   /*
    * The default text of a pad
    */
-  "defaultPadText" : "",
+  "defaultPadText" : "Please input text",
 
   /*
    * Default Pad behavior.
