@@ -170,12 +170,11 @@
    */
 
 
-  /*
   "dbType": "dirty",
   "dbSettings": {
     "filename": "var/dirty.db"
   },
-  */
+
 
   /*
    * An Example of MySQL Configuration (commented out).
@@ -183,7 +182,7 @@
    * See: https://github.com/ether/etherpad-lite/wiki/How-to-use-Etherpad-Lite-with-MySQL
    */
 
-
+  /*
   "dbType" : "mysql",
   "dbSettings" : {
     "user":     "root",
@@ -193,7 +192,7 @@
     "database": "etherpad_lite_db",
     "charset":  "utf8mb4"
   },
-
+  */
 
   /*
    * The default text of a pad
